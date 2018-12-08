@@ -1,2 +1,5 @@
 # DerivativeCalculator
-This is a derivative calculator in Java, which I think I would continue to update for a long time.
+This is a derivative calculator in Java, which **I think** I would continue to update for a long time.
+
+
+Maybe not this, but integral calculator.
